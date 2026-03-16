@@ -1,13 +1,10 @@
 ```
-              ,,
-`7MM"""Mq.    db
-  MM   `MM.
-  MM   ,M9  `7MM `7MMpdMAo.`7MMpdMAo.`7M'   `MF',pP"Ybd  .gP"Ya   ,p6"bo
-  MMmmdM9     MM   MM   `Wb  MM   `Wb  `VA ,V'  8I   `" ,M'   Yb 6M'  OO
-  MM  YM.     MM   MM    M8  MM    M8    XMX    `YMMMa. 8M"""""" 8M
-  MM   `Mb.   MM   MM   ,AP  MM   ,AP  ,V' VA.  L.   I8 YM.    , YM.    ,
-.JMML. .JMM..JMML. MMbmmd'   MMbmmd' .AM.   .MA.M9mmmP'  `Mbmmd'  YMbmd'
-                   MM        MM
-                 .JMML.    .JMML.
+`7MM"""Mq.  `7MMF'`7MM"""Mq.`7MM"""Mq.  .M"""bgd `7MM"""YMM    .g8"""bgd 
+  MM   `MM.   MM    MM   `MM. MM   `MM.,MI    "Y   MM    `7  .dP'     `M 
+  MM   ,M9    MM    MM   ,M9  MM   ,M9 `MMb.       MM   d    dM'       ` 
+  MMmmdM9     MM    MMmmdM9   MMmmdM9    `YMMNq.   MMmmMM    MM          
+  MM  YM.     MM    MM        MM       .     `MM   MM   Y  , MM.         
+  MM   `Mb.   MM    MM        MM       Mb     dM   MM     ,M `Mb.     ,' 
+.JMML. .JMM..JMML..JMML.    .JMML.     P"Ybmmd"  .JMMmmmmMMM   `"bmmmd'  
 ```
 [ ![Hackthebox](https://www.hackthebox.eu/badge/image/1521317)](https://www.hackthebox.eu/home/users/profile/1521317)
