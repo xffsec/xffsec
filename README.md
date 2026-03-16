@@ -20,6 +20,6 @@
     <img src="https://img.shields.io/badge/Instagram-rippsecurity-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://profile.hackthebox.com/profile/019c8c0d-954d-73ef-a0ea-f6291b8da8a4">
-    <img src="https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=for-the-badge&logo=Hack%20The%20Box&logoColor=black"/>
+    <img src="https://img.shields.io/badge/HackTheBox-rippsec-9FEF00?style=for-the-badge&logo=Hack%20The%20Box&logoColor=black"/>
   </a>
 </p>
